@@ -47,3 +47,4 @@ Atualmente estudando:
 
 Gosto de trocar ideias e aprender com outros devs.  
 Me chama para conversar ou colaborar em projetos!
+
