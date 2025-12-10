@@ -1,18 +1,49 @@
- 💻 Mike Renan
-🚀 Explorando o mundo do Front-End e suas principais ferramentas!
+## 🧑‍💻 Mike Renan Lacerda
 
-Olá! Sou Mike Renan, um entusiasta da tecnologia e apaixonado por desenvolvimento web. Atualmente, estou focado em aprender HTML, CSS, JavaScript e aprofundando meus conhecimentos em frameworks modernos como React.
+**Desenvolvedor Front-End | HTML • CSS • JavaScript • React**  
+📍 São Paulo, Brasil  
+📧 mike.renan@yahoo.com.br  
+🔗 [LinkedIn](https://linkedin.com/in/mikerlacerdas)
 
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
+---
 
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<br>
-📚 Busco sempre evoluir e aprimorar minhas habilidades, explorando boas práticas de código, design responsivo e performance para construir experiências incríveis na web.
+### 🚀 Sobre mim
 
-🔍 No meu perfil, você encontrará projetos que refletem meu aprendizado e evolução como desenvolvedor. Vamos construir algo incrível juntos!
-<br>
-⚡ Vamos conectar? Me chame para trocar ideias e aprender mais!
-[![Mike-Renan stats](https://github-readme-stats.vercel.app/api?username=mike-renan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-renan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+Transformo ideias em interfaces intuitivas e responsivas.  
+Apaixonado por tecnologia, busco evoluir constantemente com boas práticas, design moderno e foco em performance.
 
+---
+
+### 🛠️ Tecnologias
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React
+
+---
+
+### 📁 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| **Cantinho do Bolo** | Site institucional para loja de bolos caseiros em Ubatuba/SP | HTML |
+| **Empresa Florestaubo** | Apresentação de produtos e contato com clientes | HTML |
+| **Cafeteria Cafena** | Página para cafeteria com foco em design responsivo | HTML |
+| **Mario Bros** | Estilização criativa com CSS | CSS |
+
+---
+
+### 📚 Em constante evolução
+
+Atualmente estudando:
+- Componentização com React  
+- Boas práticas de UI/UX  
+- Otimização de performance web
+
+---
+
+### 🤝 Conecte-se comigo
+
+Gosto de trocar ideias e aprender com outros devs.  
+Me chama para conversar ou colaborar em projetos!
